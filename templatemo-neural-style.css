@@ -758,10 +758,10 @@
      background: linear-gradient(45deg, rgba(224, 163, 255, 0.2), rgba(255, 105, 180, 0.2));
 }
  .feature-row:nth-child(1) .feature-visual {
-     background-image: url('images/iit.png');
+     background-image: url('iit.png');
 }
  .feature-row:nth-child(2) .feature-visual {
-     background-image: url('images/ds.jpeg');
+     background-image: url('ds.jpeg');
 }
  
 
@@ -1300,3 +1300,4 @@
      background: linear-gradient(45deg, #ff0080, #8000ff);
      box-shadow: 0 0 15px rgba(255, 0, 128, 0.7);
 }
+
