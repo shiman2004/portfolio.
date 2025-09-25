@@ -794,7 +794,7 @@
      align-items: center;
      flex-wrap: wrap;
      gap: 40px;
-     max-width: 1200px;
+     max-width: 3200px;
      margin: 0 auto;
      padding: 0 20px;
 }
@@ -1300,4 +1300,5 @@
      background: linear-gradient(45deg, #ff0080, #8000ff);
      box-shadow: 0 0 15px rgba(255, 0, 128, 0.7);
 }
+
 
